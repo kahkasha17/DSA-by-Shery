@@ -1,0 +1,1 @@
+console.log(`Your 4 digit OTP is ${Math.trunc(((Math.random())*9000)+1000)}`)
